@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.heading {
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
